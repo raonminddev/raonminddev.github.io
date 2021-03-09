@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "함수 호출 방법"
-subtitle: "값과 참조에 의한 호출의 차이점"
+title: "새 글 작성 테스트"
+subtitle: "마크다운 테스트 입니다."
 date: 2021-03-09 11:32:13 -0400
 background: '/img/posts/06.jpg'
 ---
